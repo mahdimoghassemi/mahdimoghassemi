@@ -27,7 +27,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineerStudent:
+class ComputerEngineerStudent:
 
     def __init__(self):
         self.name = "Mahdi Moghassemi"
@@ -87,9 +87,6 @@ me.say_hi()
 
 ###
 
-<img src="https://raw.githubusercontent.com/mahdimoghassemi/mahdimoghassemi/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
