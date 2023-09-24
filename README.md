@@ -3,23 +3,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mahdi-moghassemi-317a47292/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mahdimoghassemi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/mahdimoghassemi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
-  </a>
-  <a href="@mahdimoghassemi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ```python
@@ -87,6 +70,24 @@ me.say_hi()
 
 ###
 
+## 📝 Links
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahdi-moghassemi-317a47292/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mahdimoghassemi@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/mahdimoghassemi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
+  </a>
+  <a href="@mahdimoghassemi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
 
 
 
