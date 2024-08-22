@@ -5,10 +5,11 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdimoghassemi&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimoghassemi" /> </p>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 
 class ComputerEngineerStudent:
 
