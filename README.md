@@ -3,8 +3,8 @@
 
 ###
 
-<div align="center">
-  <h3 align="left">👩‍💻  About Me</h3>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3 align="left">👩‍💻 About Me</h3>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mahdimoghassemi.mahdimoghassemi&left_color=darkslategray" align="right" />
 </div>
 
